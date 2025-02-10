@@ -1,13 +1,13 @@
 Definition of Done (DoD)
 Backlog:
-	•	The effort required for each task has been estimated using the planning poker method (S, M, L). (Stating from sprint 2)
-	•	Each task has a priority assigned (p0 = critical, p1 = important, p2 = less important). (Stating from sprint 2)
+	•	The effort required for each task has been estimated using the planning poker method (S, M, L). (Starting from sprint 2)
+	•	Each task has a priority assigned (p0 = critical, p1 = important, p2 = less important). (Starting from sprint 2)
 	•	The task belongs to either the backend, frontend, or .github category.
 	•	The task’s acceptance criteria are clearly defined.
 In Progress:
 	•	The task has an assigned developer.
 Review:
-	•	The time spent on the task has been logged. (Stating from sprint 2)
+	•	The time spent on the task has been logged. (Starting from sprint 2)
 	•	The task meets the customer’s acceptance criteria.
 	•	The task has been debugged and tested.
 	•	Documentation is up to date.
